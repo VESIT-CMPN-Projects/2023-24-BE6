@@ -1,0 +1,2 @@
+0 face_detected
+1 no_face_detected
