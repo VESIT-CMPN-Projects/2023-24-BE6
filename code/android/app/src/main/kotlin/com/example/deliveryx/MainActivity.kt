@@ -1,6 +1,0 @@
-package com.example.deliveryx
-
-import io.flutter.embedding.android.FlutterActivity
-
-class MainActivity: FlutterActivity() {
-}
